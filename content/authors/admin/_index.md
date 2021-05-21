@@ -1,77 +1,44 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Tiago Costa
+role: Assistant Professor of Bioelectronics
+avatar_filename: tiagocosta_color_1_1-900px900px.jpg
+bio: short bio
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/tiagomlcosta
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=K4t1wa4AAAAJ&hl=en
+organizations:
+  - name: Delft University of Technology
+    url: https://www.tudelft.nl/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Electrical and Computer Engineering
+      institution: Instituto Superior Técnico, Portugal
+      year: 2014
+    - course: MSc in Electronic Engineering
+      institution: Instituto Superior Técnico, Portugal
+      year: 2008
+    - course: BSc in Electronic Engineering
+      institution: Instituto Superior Técnico, Portugal
+      year: 2007
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
+Tiago Costa (S’10-M’15) was born in Torres Vedras, Portugal, in 1985. He received the B.Sc. and M.Sc. in electronic engineering from Instituto Superior Técnico - University of Lisbon, Portugal, in 2006 and 2008, respectively, and the Ph.D. in electrical and computer engineering from the same university, in 2014. His PhD research was developed in the signal processing group at INESC-ID, Lisbon, Portugal. In 2015 he joined the Bioelectronic Systems Laboratory at Columbia University, USA, as a postdoctoral research scientist. As of October 2019, he will start a new position as assistant professor at the Bioelectronics group at Delft University of Technology, The Netherlands.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+His research interests focus on developing highly miniaturized devices for emerging biomedical applications, such as electroceuticals, implantable devices for wireless physiological monitoring and lab-on-chip, by combining analog and mixed-signal CMOS circuit design with microfabricated and monolithically integrated transducers.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, he is pursuing the development of new devices for minimally invasive and highly targeted interfaces to the nervous system for the next generation of electroceuticals.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
