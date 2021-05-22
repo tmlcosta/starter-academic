@@ -30,7 +30,7 @@ experience:
     location: Delft, The Netherlands
     date_start: '2019-10-01'
     date_end: ''
-    description: Research group: Minimally Invasive Neuromodulation Devices
+    description: Minimally Invasive Neuromodulation Devices
     
   #  - title: Postdoctoral Research Scientist
   #  company: Columbia University
