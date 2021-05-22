@@ -4,9 +4,7 @@ role: Assistant Professor of Bioelectronics
 avatar_filename: tiagocosta_color_1_1-900px900px.jpg
 bio: short bio
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - BLABLABLA
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,5 +38,3 @@ Tiago Costa (S’10-M’15) was born in Torres Vedras, Portugal, in 1985. He rec
 His research interests focus on developing highly miniaturized devices for emerging biomedical applications, such as electroceuticals, implantable devices for wireless physiological monitoring and lab-on-chip, by combining analog and mixed-signal CMOS circuit design with microfabricated and monolithically integrated transducers.
 
 Currently, he is pursuing the development of new devices for minimally invasive and highly targeted interfaces to the nervous system for the next generation of electroceuticals.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
