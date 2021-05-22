@@ -4,7 +4,7 @@ role: Assistant Professor of Bioelectronics
 avatar_filename: avatar.jpg
 bio: Researching minimally invasive neuromodulation devices
 interests:
-  - IntegratedCircuitDesign
+  - Integrated Circuit Design, Microfabrication, Biological Interfaces, Ultrasound Neuromodulation
 social:
   - icon: envelope
     icon_pack: fas
