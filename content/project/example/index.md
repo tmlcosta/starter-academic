@@ -22,7 +22,7 @@ links: []
 image:
   caption: ""
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   filename: logointensezwart-1.png
 url_code: ""
 ---
