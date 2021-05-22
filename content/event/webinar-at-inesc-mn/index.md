@@ -18,7 +18,7 @@ abstract: "Neurological disorders are the leading cause of disability and the
   ultrasound frequencies towards higher spatial resolution. These advances will
   contribute to a new generation of ultrasound technology to bring LIFU
   neuromodulation to the forefront of neuroscience and neurology."
-location: INESC-MN (through Zoom)
+location: INESC-MN
 date: 2021-03-05T16:00:00.000Z
 date_end: 2021-03-05T17:00:00.000Z
 all_day: false
@@ -29,7 +29,7 @@ publishDate: 2021-05-22T12:56:17.091Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
