@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: HFSP Early Career Grant
-    tag: HFSP Early Career Grant
+    tag: HFSP
   - name: INTENSE
     tag: INTENSE
   - name: ICARUS
