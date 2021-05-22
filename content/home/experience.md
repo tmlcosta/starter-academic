@@ -22,28 +22,43 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+
+  - title: Tenure Track Assistant Professor
+    company: Delft University of Technology
+    company_url: 'http://bioelectronics.tudelft.nl/'
+    company_logo: org-delft
+    location: Delft, The Netherlands
+    date_start: '2019-10-01'
+    date_end: 'Present'
+    description: Research group: Minimally Invasive Neuromodulation Devices
+    
+    - title: Postdoctoral Research Scientist
+    company: Columbia University
+    company_url: 'https://bioee.ee.columbia.edu/'
+    company_logo: org-columbia
+    location: New York, USA
+    date_start: '2015-02-01'
+    date_end: '2019-09-30'
+    description: Ultrasound microtechnologies for biological interfaces
+    
+  - title: Graduate Student
+    company: INESC-ID
+    company_url: 'www.inesc-id.pt'
+    company_logo: org-inesc
+    location: Lisbon, Portugal
+    date_start: '2009-09-01'
+    date_end: '2014-12-28'
+    description: Thesis: Integrated Circuits for Interfacing with Magnetoresistive Sensors
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Junior Electronics Engineer
+    company: Toyota Motor Europe
+    company_url: 'https://www.toyota-europe.com/'
+    company_logo: org-toyota
+    location: Brussels, Belgium
+    date_start: '2008-10-01'
+    date_end: '2009-03-31'
+    description: R&D Engineer in the Electronics Design Division.
+    
 
 design:
   columns: '2'
