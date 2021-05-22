@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: NWO Crossover Grant
-    tag: NWO Crossover Grant
   - name: HFSP Early Career Grant
     tag: HFSP Early Career Grant
+  - name: INTENSE
+    tag: INTENSE
+  - name: ICARUS
+    tag: ICARUS
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
