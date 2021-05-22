@@ -29,7 +29,7 @@ experience:
     company_logo: org-delft
     location: Delft, The Netherlands
     date_start: '2019-10-01'
-    date_end: '2045-10-01'
+    date_end: ''
     description: Research group: Minimally Invasive Neuromodulation Devices
     
   #  - title: Postdoctoral Research Scientist
