@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: NWO Crossover Grant
+    tag: NWO Crossover Grant
+  - name: HFSP Early Career Grant
+    tag: HFSP Early Career Grant
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
