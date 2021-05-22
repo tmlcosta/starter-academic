@@ -21,8 +21,8 @@ tags: []
 links: []
 image:
   caption: ""
-  focal_point: Smart
+  focal_point: TOP
   preview_only: true
-  filename: logointensezwart-1.png
+  filename: https://intenseproject.eu/images/elementen/logointensezwart-11.png
 url_code: ""
 ---
