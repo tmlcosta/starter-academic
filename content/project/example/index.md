@@ -17,12 +17,13 @@ categories: []
 external_link: https://intenseproject.eu/
 url_slides: ""
 subtitle: Innovative Technology for Society
-tags: []
+tags:
+  - INTENSE
 links: []
 image:
   caption: ""
   focal_point: TOP
-  preview_only: true
+  preview_only: false
   filename: https://intenseproject.eu/images/elementen/logointensezwart-11.png
 url_code: ""
 ---
