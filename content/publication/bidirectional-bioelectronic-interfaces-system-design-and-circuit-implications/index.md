@@ -2,7 +2,7 @@
 title: "Bidirectional Bioelectronic Interfaces: System Design and Circuit
   Implications"
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Y. Liu
   - A. Urso
