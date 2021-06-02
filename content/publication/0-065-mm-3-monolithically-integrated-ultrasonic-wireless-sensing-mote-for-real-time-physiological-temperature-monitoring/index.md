@@ -11,6 +11,7 @@ authors:
   - K. L. Shepard
 doi: 10.1109/TBCAS.2020.2971066
 publication: IEEE Trans Biomed Circuits Syst, vol. 14, no. 3, pp. 412-424, Jun 2020
+date: "2020-02-03"
 draft: false
 featured: false
 image:
