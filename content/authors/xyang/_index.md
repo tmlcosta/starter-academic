@@ -1,5 +1,5 @@
 ---
-title: Xinyu Yand
+title: Xinyu Yang
 role: M.Sc. student
 avatar_filename: avatar.jpg
 
