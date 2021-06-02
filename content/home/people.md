@@ -18,7 +18,7 @@ content:
   user_groups:
     - Principal Investigators
     - PhD students
-    - MSc Students
+    - MSc students
     - Alumni
 design:
   # Show user's social networking links? (true/false)
