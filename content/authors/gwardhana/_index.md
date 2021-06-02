@@ -1,16 +1,11 @@
 ---
-title: Aitor del Rivero Cortázar
-role: M.Sc. student
+title: Gandhika Wardhana
+role: Ph.D. student
 avatar_filename: avatar.jpg
 
-social:
-  - icon: linkdin
-    icon_pack: fab
-    link: https://nl.linkedin.com/in/francesc-varkevisser-06b60651
+user_groups: ["PhD students"]
 
-user_groups: ["MSc students"]
-
-email: "a.delriverocortazar@student.tudelft.nl"
+email: "g.k.wardhana@tudelft.nl"
 superuser: false
 highlight_name: false
 ---
