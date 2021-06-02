@@ -1,6 +1,6 @@
 ---
-widget: page
-widget_id: people
+widget: people
+widget_id: group-members
 headless: true
 weight: 10
 active: true
