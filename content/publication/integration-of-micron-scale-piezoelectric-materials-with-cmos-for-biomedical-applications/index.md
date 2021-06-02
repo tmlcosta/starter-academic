@@ -1,5 +1,5 @@
 ---
-title: Integration of Micron-scale Piezoelectric Materials with CMOS for
+title: Monolithic Integration of Micron-scale Piezoelectric Materials with CMOS for
   Biomedical Applications
 publication_types:
   - "1"
@@ -16,5 +16,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-06-02T14:50:58.006Z
+date: 2018-12-01T14:50:58.006Z
 ---
