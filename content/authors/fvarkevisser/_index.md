@@ -9,6 +9,8 @@ social:
     icon_pack: fab
     link: https://nl.linkedin.com/in/francesc-varkevisser-06b60651
 
+user_groups: ["PhD students"]
+
 email: "f.varkevisser@tudelft.nl"
 superuser: false
 highlight_name: false
