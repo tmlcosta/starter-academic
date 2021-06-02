@@ -10,7 +10,8 @@ authors:
   - Stephen A. Lee
   - Tiago Costa
   - Jeffrey Elloian
-  - Elisa E. Konofagou and  Kenneth L. Shepard
+  - Elisa E. Konofagou
+  - Kenneth L. Shepard
 author_notes: []
 publication: Science Advances 7, eabf6312, (2021)
 summary: ""
@@ -19,9 +20,8 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Application of a sub–0.1-mm3 implantable mote for in vivo real-time
-  wireless temperature sensing
-doi: ""
+title: Application of a sub–0.1-mm3 implantable mote for in vivo real-time wireless temperature sensing
+doi: "10.1126/sciadv.abf6312"
 featured: false
 tags: []
 projects: []
@@ -29,9 +29,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+date: 
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 
 url_poster: ""
 url_code: ""
 ---
