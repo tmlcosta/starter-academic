@@ -1,7 +1,7 @@
 ---
 title: Ablation of piezoelectric polyvinylidene fluoride with a 193 nm excimer laser
 publication_types:
-  - "0"
+  - "2"
 authors:
   - J. Elloian
   - J. Sherman
