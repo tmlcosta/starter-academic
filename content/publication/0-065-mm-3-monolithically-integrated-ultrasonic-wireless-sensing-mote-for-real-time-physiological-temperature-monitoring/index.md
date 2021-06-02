@@ -4,11 +4,11 @@ title: 0.065-mm^3 Monolithically-Integrated Ultrasonic Wireless Sensing Mote for
 publication_types:
   - "2"
 authors:
-  - Chen Shi
-  - Tiago Costa
-  - Jeffrey Elloian
-  - Yihan Zhang
-  - Kenneth L. Shepard
+  - C. Shi
+  - T. Costa
+  - J. Elloian
+  - Y. Zhang
+  - K. L. Shepard
 doi: 10.1109/TBCAS.2020.2971066
 publication: IEEE Trans Biomed Circuits Syst, vol. 14, no. 3, pp. 412-424, Jun 2020
 draft: false
