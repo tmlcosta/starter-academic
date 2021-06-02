@@ -1,7 +1,7 @@
 ---
 title: Integration of Magnetoresistive Biochips on a CMOS Circuit
 publication_types:
-  - "0"
+  - "2"
 authors:
   - F. A. Cardoso
   - T. Costa
