@@ -6,7 +6,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+#external_link: ""
 
 image:
   caption: 2D phased array ultrasound beamformer (T.Costa _el al_, IEEE CICC 2019)
