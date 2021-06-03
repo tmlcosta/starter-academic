@@ -1,7 +1,7 @@
 ---
 title: Lab-on-a-chip tools for neuroscience
 date: 2021-05-22T12:11:32.682Z
-summary: ""
+summary: "Leveraging on the clinical potential of LIFU neuromodulation, the influence of focused ultrasound on a plethora of biological processes is still heavily debated. To provide a magnified window of observation of these biological processes, we engineer lab-on-a-chip microtechnologies to modulate and record cellular and ion-channel activity at the micro-scale."
 draft: false
 featured: false
 tags:
@@ -12,4 +12,3 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Leveraging on the clinical potential of LIFU neuromodulation, the influence of focused ultrasound on a plethora of biological processes is still heavily debated. To provide a magnified window of observation of these biological processes, we engineer lab-on-a-chip microtechnologies to modulate and record cellular and ion-channel activity at the micro-scale.
