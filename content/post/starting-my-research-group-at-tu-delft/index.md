@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-I just started my appointment at TU Delft as a tenure-track assistant professor. I will be working on minimally invasive neuromodulation devices for both neuroscience and clinical applications.
+I will start my appointment at TU Delft as a tenure-track assistant professor on October 1st 2019. I will be working on minimally invasive neuromodulation devices for both neuroscience and clinical applications.
