@@ -32,6 +32,9 @@ education:
     - course: BSc in Electronic Engineering
       institution: Instituto Superior Técnico, Portugal
       year: 2007
+
+user_groups: ["Principal Investigators"]
+
 email: ""
 superuser: true
 highlight_name: false
