@@ -29,10 +29,10 @@ content:
     tag: '*'
   - name: Bioultrasonic Medicine
     tag: hybrid
-  - name: Lab-on-a-chip for neuroscience
-    tag: labchip
-    - name: Visual prosthesis
-    tag: visual
+  #- name: Lab-on-a-chip for neuroscience
+   # tag: labchip
+  #  - name: Visual prosthesis
+  #  tag: visual
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
