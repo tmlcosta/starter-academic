@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: 
 url_pdf: ""
 title: CMOS-Piezoelectric hybrid systems for ultrasound neuromodulation
 summary: ""
