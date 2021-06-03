@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Bioultrasonic Medicine
+  - name: Bio-Ultrasonic Medicine
     tag: hybrid
   #- name: Lab-on-a-chip for neuroscience
    # tag: labchip
