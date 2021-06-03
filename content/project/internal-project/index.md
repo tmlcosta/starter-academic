@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:
@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 The emergence of Low-Intensity Focused Ultrasound (LIFU) neuromodulation is opening new possibilities for treatments of diseases related to the nervous system by providing both non-invasiveness and high spatial resolution. To overcome the bulky form-factors of existing  handheld/helmet-like stimulators, we are researching novel microtechnologies by exploring CMOS integrated circuit design and integrated piezoelectric materials to enable wearable or minimally invasive bioultrasonic medicine
