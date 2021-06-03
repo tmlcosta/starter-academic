@@ -1,6 +1,6 @@
 ---
 title: Visual prosthesis for the blind
-summary: CMOS interface technology for high efficient stimulation of the visual cortex `external_link`.
+summary: CMOS interface technology for high efficient stimulation of the visual cortex.
 tags:
 - visual
 date: "2016-04-27T00:00:00Z"
