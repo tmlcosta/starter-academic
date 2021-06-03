@@ -1,5 +1,5 @@
 ---
-title: Bioultrasonic medicine
+title: Bio-ultrasonic medicine
 summary: CMOS-Piezo hybrid systems for ultrasound neuromodulation.
 tags:
 - hybrid
