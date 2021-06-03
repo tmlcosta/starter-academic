@@ -30,4 +30,4 @@ url_video: ""
 slides: ""
 ---
 
-The emergence of Low-Intensity Focused Ultrasound (LIFU) neuromodulation is opening new possibilities for treatments of diseases related to the nervous system by providing both non-invasiveness and high spatial resolution. To overcome the bulky form-factors of existing  handheld/helmet-like stimulators, we are researching novel microtechnologies by exploring CMOS integrated circuit design and integrated piezoelectric materials to enable wearable or minimally invasive bioultrasonic medicine
+The emergence of Low-Intensity Focused Ultrasound (LIFU) neuromodulation is opening new possibilities for treatments of diseases related to the nervous system by providing both non-invasiveness and high spatial resolution. To overcome the bulky form-factors of existing  handheld/helmet-like stimulators, we are researching novel microtechnologies by exploring CMOS integrated circuit design and integrated piezoelectric materials to enable wearable or minimally invasive bio-ultrasonic medicine

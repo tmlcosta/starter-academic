@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Research
 subtitle: ''
 
 content:
@@ -29,10 +29,10 @@ content:
     tag: '*'
   - name: Bio-Ultrasonic Medicine
     tag: hybrid
-  #- name: Lab-on-a-chip for neuroscience
-   # tag: labchip
-  #  - name: Visual prosthesis
-  #  tag: visual
+  - name: Lab-on-a-chip for neuroscience
+    tag: labchip
+  - name: Visual prosthesis
+    tag: visual
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
