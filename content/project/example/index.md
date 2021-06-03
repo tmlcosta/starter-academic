@@ -10,7 +10,7 @@ external_link: http://bioelectronics.tudelft.nl/
 url_slides: ""
 subtitle: ""
 tags:
-  - hybrid
+  - cmoshybrid
 links: []
 image:
   caption: ""
