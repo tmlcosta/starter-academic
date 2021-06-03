@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 
+  caption: ultra low noise amplifier for magnetic lab-on-a-chip (T. Costa _et al_, TBioCAS 2016) 
   focal_point: Smart
 
 links:
