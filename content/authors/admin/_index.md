@@ -2,7 +2,7 @@
 title: Tiago Costa
 role: Assistant Professor of Bioelectronics
 avatar_filename: avatar.jpg
-bio: Researching minimally invasive neuromodulation devices
+bio: ""
 interests:
   - Integrated Circuit Design
   - Microfabrication
@@ -21,7 +21,7 @@ social:
 organizations:
   - name: Delft University of Technology
     url: https://www.tudelft.nl/
-  - name: Bioelectronics group
+  - name: http://bioelectronics.tudelft.nl/
   - url: http://bioelectronics.tudelft.nl/
 education:
   courses:
