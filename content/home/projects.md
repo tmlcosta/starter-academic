@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: Ultrasound neuromodulation microtechnologies
-    tag: hybrid
+    tag: cmoshybrid
   - name: Lab-on-a-chip tools for neuroscience
     tag: labchip
   - name: Visual prosthesis
