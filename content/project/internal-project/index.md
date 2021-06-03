@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 
+  caption: 2D phased array ultrasound beamformer (T.Costa _el al_, IEEE CICC 2019)
   focal_point: Smart
 
 links:
