@@ -25,7 +25,7 @@ phone: +31 15 278 9504
 address:
   street: Mekelweg 4 2628 CD
 
-  city: Delft
+  city: Delft, The Netherlands
   region: ""
   postcode: ""  
   country: The Netherlands
@@ -33,7 +33,7 @@ address:
 coordinates:
   latitude: ''
   longitude: ''
-directions: Enter Building 36 and take the elevator to the 13th floor, turn right and find Office 290.
+directions: Enter building 36, take elevator to 13th floor and find office 13.290.
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
@@ -43,10 +43,10 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/tiagomlcosta'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'tmlcosta'
+  #- icon: skype
+#    icon_pack: fab
+#    name: Skype Me
+#    link: 'tmlcosta'
  # - icon: keybase
    # icon_pack: fab
   #  name: Chat on Keybase
