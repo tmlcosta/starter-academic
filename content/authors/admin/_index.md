@@ -2,7 +2,7 @@
 title: Tiago Costa
 role: Assistant Professor of Bioelectronics
 avatar_filename: avatar.jpg
-bio: Assistant Professor of Bioelectronics
+bio: ""
 interests:
   - Integrated Circuit Design
   - Microfabrication
