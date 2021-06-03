@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Vacancies
 subtitle: ''
 
 content:
@@ -27,13 +27,11 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Bio-Ultrasonic Medicine
-    tag: hybrid
-  #- name: Lab-on-a-chip for neuroscience
-   # tag: labchip
-  #  - name: Visual prosthesis
-  #  tag: visual
-
+  - name: Postdoc/PhD student
+    tag: pdphd
+  - name: MSc student
+    tag: msc
+  
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
