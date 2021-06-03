@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Research
 subtitle: ''
 
 content:
@@ -27,12 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
- # - name: Ultrasound neuromodulation microtechnologies
-  #  tag: cmoshybrid
-  #- name: Lab-on-a-chip tools for neuroscience
-   # tag: labchip
-  #- name: Visual prosthesis
-  #  tag: intense
+  - name: Ultrasound neuromodulation microtechnologies
+    tag: cmoshybrid
+  - name: Lab-on-a-chip tools for neuroscience
+    tag: labchip
+  - name: Visual prosthesis
+    tag: intense
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
