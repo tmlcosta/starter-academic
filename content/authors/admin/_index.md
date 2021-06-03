@@ -21,7 +21,7 @@ social:
 organizations:
   - name: Delft University of Technology
     url: https://www.tudelft.nl/
-  - name: Bioelectronics group
+  - name: http://bioelectronics.tudelft.nl/
   - url: http://bioelectronics.tudelft.nl/
 education:
   courses:
