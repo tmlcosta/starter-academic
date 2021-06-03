@@ -5,7 +5,7 @@ summary: ""
 draft: false
 featured: false
 tags:
-  - HFSP
+  - labchip
 external_link: http://bioelectronics.tudelft.nl/
 image:
   filename: ""
