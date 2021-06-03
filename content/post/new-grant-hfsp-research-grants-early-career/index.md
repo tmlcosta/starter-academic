@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Together with Andreas Hartel (Columbia University) and Wojciech Kopec (Max Planck Institute for Biophysical Chemistry), we will work on an interdisciplinary approach to unravel the fundamental mechanisms of focused ultrasound neuromodulation.
+Together with Andreas Hartel (Columbia University) and Wojciech Kopec (Max Planck Institute for Biophysical Chemistry), we will work on an interdisciplinary approach to unravel the fundamental mechanisms of focused ultrasound neuromodulation. More information can be found here: https://www.hfsp.org/awardees/newly-awarded
