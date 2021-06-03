@@ -30,7 +30,7 @@ image:
 slides: ""
 ---
 
-We are looking for highly motivated candidates for a Postdoc or a Ph.D. position to lead the research in our recent HFSP grant (project summary below). The ideal candidate has a background in analog and mixed-signal CMOS integrated circuit design, with strong emphasizes on ultra-low noise architectures and/or on biological interfaces. The candidate will lead the IC design part of the project by designing ultra-low noise and high bandwidth circuits to record ion channel protein gating events. To engage with a team of engineers,  experimental and computational biologists, the candidate should be highly driven and team-oriented, with excellent communication skills and a multi-disciplinary mindset.
+We are looking for highly motivated candidates for a Postdoc or a Ph.D. position to lead the research in our recent HFSP Research Grant - Early Career (project summary below). The ideal candidate has a background in analog and mixed-signal CMOS integrated circuit design, with strong emphasizes on ultra-low noise architectures and/or on biological interfaces. The candidate will lead the IC design part of the project by designing ultra-low noise and high bandwidth circuits to record ion channel protein gating events. To engage with a team of engineers,  experimental and computational biologists, the candidate should be highly driven and team-oriented, with excellent communication skills and a multi-disciplinary mindset.
 
 Interested candidates should send a motivation letter and their CV to t.m.l.costa@tudelft.nl
 
