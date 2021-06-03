@@ -6,21 +6,21 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+#external_link: ""
 
 image:
   caption: ultra low noise amplifier for magnetic lab-on-a-chip (T. Costa _et al_, TBioCAS 2016) 
   focal_point: Smart
 
-links:
-- icon: 
-  icon_pack: 
-  name: 
-  url: 
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#links:
+#- icon: 
+#  icon_pack: 
+#  name: 
+#  url: 
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
