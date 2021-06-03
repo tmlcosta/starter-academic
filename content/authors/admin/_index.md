@@ -20,7 +20,7 @@ social:
     link: https://scholar.google.com/citations?user=K4t1wa4AAAAJ&hl=en
 organizations:
   - name: Delft University of Technology
-    url: https://www.tudelft.nl/
+    url: http://bioelectronics.tudelft.nl/
 education:
   courses:
     - course: PhD in Electrical and Computer Engineering
@@ -39,4 +39,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Tiago Costa received his Ph.D. degree in Electrical and Computer Engineering from Instituto Superior Técnico, Portugal, in 2014. From 2015 to September 2019 he was a Postdoctoral Research Scientist at Columbia University, where he worked with Prof. Ken Shepard on ultrasound microchip technology for biological interfaces. Since October 2019 he is an Assistant Professor of Bioelectronics at the Delft University of Technology, where he is researching new devices for minimally invasive and highly precise interfaces to the nervous system.
+Tiago Costa received his Ph.D. degree in Electrical and Computer Engineering from Instituto Superior Técnico, Portugal, in 2014. From 2015 to September 2019 he was a Postdoctoral Research Scientist at Columbia University, where he worked with Prof. Ken Shepard on ultrasound microchip technology for biological interfaces. Since October 2019 he is an Assistant Professor at the Microelectronics department at the Delft University of Technology, where is researching new devices for minimally invasive and highly precise interfaces to the nervous system.
