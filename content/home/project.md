@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Research
+title: Projects
 subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: Research
+  page_type: project
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -27,12 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Ultrasound neuromodulation microtechnologies
-    tag: cmoshybrid
-  - name: Lab-on-a-chip tools for neuroscience
-    tag: labchip
-  - name: Visual prosthesis
-    tag: intense
+  - name: Deep Learning
+    tag: Deep Learning
+  - name: Other
+    tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
