@@ -1,5 +1,5 @@
 ---
-title: Francesk Varkevisser
+title: Francesc Varkevisser
 role: Ph.D. student
 avatar_filename: avatar.jpg
 bio: Researching minimally invasive neuromodulation devices
