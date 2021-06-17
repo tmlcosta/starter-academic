@@ -1,5 +1,5 @@
 ---
-title: New paper on Science Advances!
+title: New paper in Science Advances!
 date: 2021-06-16T14:32:43.900Z
 draft: false
 featured: false
