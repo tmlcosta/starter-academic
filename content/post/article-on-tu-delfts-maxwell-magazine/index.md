@@ -1,6 +1,6 @@
 ---
 title: Article on TU Delft's Maxwell Magazine
-date: 2021-06-16T14:27:45.373Z
+date: 2019-10-02T14:27:45.373Z
 draft: false
 featured: false
 image:
