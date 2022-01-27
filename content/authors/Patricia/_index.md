@@ -1,5 +1,5 @@
 ---
-title: Patrícia Rodrigues
+title: Patricia Rodrigues
 role: M.Sc. student
 avatar_filename: avatar.jpg
 
