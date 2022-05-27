@@ -1,6 +1,6 @@
 ---
 title: Diogo Dias
-role: Ph.D. student (from FCT - Universidade de Lisboa, Portugal)
+role: Ph.D. student (from FCT - Universidade Nova de Lisboa, Portugal)
 avatar_filename: avatar.jpg
 bio: Researching minimally invasive neuromodulation devices
 
