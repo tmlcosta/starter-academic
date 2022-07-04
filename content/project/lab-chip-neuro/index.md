@@ -3,7 +3,7 @@ title: Ultrasound Microtechnologies for Neuroscience
 summary: High fidelity ultrasound chips to interface with biology at the nano and microscale, from single ion channel proteins to single neurons
 tags:
 - neuroscience
-date: "2017-04-27T00:00:00Z"
+date: "2015-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
