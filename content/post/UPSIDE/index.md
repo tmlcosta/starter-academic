@@ -4,7 +4,7 @@ date: 2022-01-28T09:21:27.365Z
 draft: false
 featured: true
 image:
-  filename: upside
+  filename: featured
   focal_point: Smart
   preview_only: false
 ---
