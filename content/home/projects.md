@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Bio-Ultrasonic Medicine
-    tag: hybrid
-  - name: Lab-on-a-chip for neuroscience
-    tag: labchip
+  - name: Translational Neurotechnology
+    tag: translational
+  - name: Tools for Neuroscience
+    tag: neuroscience
   - name: Visual prosthesis
     tag: visual
 
