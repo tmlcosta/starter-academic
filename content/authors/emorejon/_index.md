@@ -1,5 +1,5 @@
 ---
-title: Eduardo Puchol Morejón
+title: Eduardo Puchol Morejon
 role: M.Sc. student
 avatar_filename: avatar.jpg
 
