@@ -9,4 +9,8 @@ image:
   preview_only: false
 ---
 
-Our recent work on ultrasound neurotechnologies and power-efficient neuronal stimulation was accepted at IEEE EMBC (congrats to Ignas and Cesc!) and IEEE IUS (Congrats to Gandhi!).
+Our recent work on ultrasound neurotechnologies and power-efficient neuronal stimulation was accepted for the upcoming IEEE EMBC (congrats to Ignas and Cesc!) and IEEE IUS (Congrats to Gandhi!).
+
+More information about the conferences:
+IEEE EMBC: https://embc.embs.org/2022/
+IEEE IUS: https://2022.ieee-ius.org/
