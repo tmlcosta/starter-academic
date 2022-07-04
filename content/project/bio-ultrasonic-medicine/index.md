@@ -1,15 +1,15 @@
 ---
-title: Bio-ultrasonic medicine
-summary: CMOS-Piezo hybrid systems for ultrasound neuromodulation.
+title: Ultrasound Translational Neurotechnologies
+summary: Miniaturized focused ultrasound devices for precise and minimally-invasive neuromodulation, from animal models to humans.
 tags:
-- hybrid
+- translational
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
 
 image:
-  caption: 2D phased array ultrasound beamformer (T.Costa _el al_, IEEE CICC 2019)
+  caption: 2D phased array ultrasound beamformer (T.Costa _el al_, IEEE TbioCAS 2021)
   focal_point: Smart
 
 #links:
@@ -30,4 +30,4 @@ image:
 slides: ""
 ---
 
-The emergence of Low-Intensity Focused Ultrasound (LIFU) neuromodulation is opening new possibilities for treatments of diseases related to the nervous system by providing both non-invasiveness and high spatial resolution. To overcome the bulky form-factors of existing  handheld/helmet-like stimulators, we are researching novel microtechnologies by exploring CMOS integrated circuit design and integrated piezoelectric materials to enable wearable or minimally invasive bio-ultrasonic medicine
+The emergence of Low-Intensity Focused Ultrasound (LIFU) neuromodulation is opening new possibilities for treatments of diseases related to the nervous system by providing both non-invasiveness and high spatial resolution. To overcome the bulky form-factors of existing  handheld/helmet-like stimulators, we are researching novel microtechnologies by exploring CMOS integrated circuit design and integrated piezoelectric materials to enable precise and minimally invasive neuromodulation of the nervous system.
