@@ -2,9 +2,9 @@
 title: EIC Pathfinder Challenges project UPSIDE was granted!
 date: 2022-01-28T09:21:27.365Z
 draft: false
-featured: false
+featured: true
 image:
-  filename: featured
+  filename: upside
   focal_point: Smart
   preview_only: false
 ---
