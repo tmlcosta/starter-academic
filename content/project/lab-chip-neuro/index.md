@@ -1,8 +1,8 @@
 ---
-title: Lab-on-a-chip tools for neuroscience
-summary: High fidelity ultrasound interfaces with cells and ion channels.
+title: Ultrasound microtechnologies for neuroscience
+summary: High fidelity ultrasound chips to interface with biology at the nano and microscale, from single ion channel proteins to single neurons
 tags:
-- labchip
+- neuroscience
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -30,4 +30,4 @@ image:
 slides: ""
 ---
 
-Leveraging on the clinical potential of LIFU neuromodulation, the influence of focused ultrasound on a plethora of biological processes is still heavily debated, with several mechanisms, often contradictory, being hypothesized. To provide a magnified window of observation of these biological processes, we engineer lab-on-a-chip microtechnologies to modulate and record cellular and ion-channel activity at the micro-scale.
+Leveraging on the clinical potential of LIFU neuromodulation, the influence of focused ultrasound on a plethora of biological processes is still heavily debated, with several mechanisms, often contradictory, being hypothesized. To provide a magnified window of observation of these biological processes, we engineer ultrasound microtechnologies to modulate and record cellular and ion-channel activity at the micro and nanoscale.
