@@ -1,10 +1,10 @@
 ---
-title: Postdoc position in IC design
+title: Postdoc position in Analog and Mixed Signal IC design
 summary:  
 
 tags:
 - pdphd
-date: "2016-04-27T00:00:00Z"
+date: "2015-04-27T00:00:00Z"
 
 
 # Optional external URL for project (replaces project detail page).
