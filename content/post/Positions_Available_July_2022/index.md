@@ -1,6 +1,6 @@
 ---
 title: Several positions available to develop the next generation ultrasonic brain interfaces. Join us!
-date: 2022-01-28T09:21:27.365Z
+date: 2022-02-28T09:21:27.365Z
 draft: false
 featured: true
 image:
