@@ -1,6 +1,6 @@
 ---
 title: PhD position in IC design
-summary: Fully funded PhD position in IC design available.
+summary:  
 
 tags:
 - pdphd
